@@ -24,7 +24,7 @@ This reposiorty contains the c# code which is using latest persistence technique
 
 
 
-## Just for educational purposes.............. I am not responsible for misuse.
+## Just for educational purposes. I am not responsible for misuse.
 ## Offensive Panda
 ## Cyber Security Engineer
 
