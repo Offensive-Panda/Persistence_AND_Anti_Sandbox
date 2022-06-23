@@ -3,7 +3,7 @@ This reposiorty contains the c# code which is using latest persistence technique
 
 
 # Persistence
-1) Downloading a Exe from webserver using webclient in WindowsApps Folder.
+1) Downloading an Exe from webserver using webclient in WindowsApps Folder.
 2) Exe is downloading with the name Get-Variable.exe in WindowsApps Folder.
 3) Creating a task in scheduler execute Get-Variable command in powershell which is legitimate cmdlet gets the PowerShell variables in the current console.
 4) After executing this our downloaded binary will execute rathar than powereshell cmdlet.
