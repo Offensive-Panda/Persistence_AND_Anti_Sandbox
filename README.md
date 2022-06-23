@@ -11,10 +11,10 @@ This reposiorty contain the code which is using latest persistence techniques an
 
 
 # Anti-Vm and Anti-Sandbox
-1) I am getting Ram size if it is less than 4 gb program will terminate.
-2) I am checking if the exe is running in VMware or VirtualBox it will terminate.
-3) I am checking the debuger is present, it will terminate.
-4) I am checking if the exe is running in sandbox it will terminate.
+1) Getting Ram size if it is less than 4 gb program will terminate.
+2) Checking if the exe is running in VMware or VirtualBox it will terminate.
+3) Checking the debuger is present, it will terminate.
+4) Checking if the exe is running in sandbox it will terminate.
 
 
 # Assignment
@@ -24,5 +24,7 @@ This reposiorty contain the code which is using latest persistence techniques an
 
 
 
-## Just for educational purpose.............. I am not responsible for misuse
+## Just for educational purposes.............. I am not responsible for misuse.
+## Offensive Panda
+## Cyber Security Engineer
 
