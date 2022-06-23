@@ -17,6 +17,7 @@ class Program
     [DllImport("kernel32.dll", SetLastError = true, ExactSpelling = true)]
     static extern bool CheckRemoteDebuggerPresent(IntPtr hProcess, ref bool isDebuggerPresent);
     private readonly static List<string> ProcessName = new List<string> { "ProcessHacker", "taskmgr" };
+    public static bool blocker=false;
 
     static void Main(string[] args)
     {
@@ -50,6 +51,10 @@ class Program
         {
             DP();
             Thread.Sleep(10);
+             if (blocker)
+            {
+                break;
+            }
         }
     }
 
